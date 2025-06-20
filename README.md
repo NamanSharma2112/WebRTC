@@ -1,7 +1,7 @@
-** Overview 
+#Overview 
 A simple peer-to-peer video chat application built with vanilla JavaScript using WebRTC technology. This project was created from scratch to understand the fundamentals of real-time communication in browsers.
 
-*Features
+#Features
 One-to-one video calling
 
 Real-time audio/video streaming
@@ -12,7 +12,7 @@ ICE candidate handling
 
 Simple UI with offer/answer mechanism
 
-* Technologies Used
+# Technologies Used
 WebRTC API
 
 Vanilla JavaScript
@@ -24,7 +24,7 @@ CSS3
 STUN servers (Google's public servers)
 
 
-On First Device (Offerer):
+*On First Device (Offerer):
 
 Click "Create Offer" to generate an SDP offer
 
